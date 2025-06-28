@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/win-os-clone/static/js/main.5bbd651f.js",
+    "main.js": "/win-os-clone/static/js/main.fee24f00.js",
     "index.html": "/win-os-clone/index.html",
-    "main.5bbd651f.js.map": "/win-os-clone/static/js/main.5bbd651f.js.map"
+    "main.fee24f00.js.map": "/win-os-clone/static/js/main.fee24f00.js.map"
   },
   "entrypoints": [
-    "static/js/main.5bbd651f.js"
+    "static/js/main.fee24f00.js"
   ]
 }
